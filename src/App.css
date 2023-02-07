@@ -6,11 +6,11 @@
 }
 
 html, body {
-  background-image: url(./imagenes/cesped.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-image: url(./imagenes/cesped.jpg); /* Imagen de fondo del cesped */
+  background-size: cover; /* Tamaño de la imagen que cubre el contenedor sin deformar la imagen */
+  background-position: center; /* Posicion respecto al contenedor */
+  background-repeat: no-repeat; /* No se repite la imagen dentro del contenedor */
+  background-attachment: fixed; /* La imagen de cesped se va a desplazar en todo momento para no dejar huecos en blanco */
 }
 
 .App {
@@ -24,11 +24,10 @@ html, body {
 }
 
 h1 {
-  color: whitesmoke;
+  color: rgb(215, 230, 7);
   font-weight: bold;
   margin: 3.04vh 0;
   font-size: 6vh;
-
 }
 
 .contenedor-copa-botonera-escudo {
@@ -45,18 +44,19 @@ h1 {
 .contenedor-logo-afa {
   display: flex;
   height: 62vh;
+  padding-left: 1.52vh;
   cursor: pointer;
 }
 
 
 
 .contenedor-botonera {
-  border-radius: 3.04vh;
-  background-image: url(./imagenes/bandera-argentina.webp);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  border: 1.52vh solid white;
+  border-radius: 3.04vh; /* Borde para hacer circular el contenedor */
+  background-image: url(./imagenes/bandera-argentina.webp); /* Imagen de la bandera Argentina */
+  background-size: cover; /* Tamaño de la imagen que cubre el contenedor sin deformar la imagen */
+  background-position: center; /* Posicion respecto al contenedor */
+  background-repeat: no-repeat; /* No se repite la imagen dentro del contenedor */
+  border: 1.52vh solid white; /* Borde del contenedor */
 }
 
 button {
