@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/Botonera-Futbol-Argentino/static/css/main.04e5535b.css",
-    "main.js": "/Botonera-Futbol-Argentino/static/js/main.6beb2c6a.js",
+    "main.js": "/Botonera-Futbol-Argentino/static/js/main.3cfc34b7.js",
     "static/media/levantamiento-de-copa.mp4": "/Botonera-Futbol-Argentino/static/media/levantamiento-de-copa.072aad094e04d37d58a4.mp4",
     "static/media/penal-montiel.mp4": "/Botonera-Futbol-Argentino/static/media/penal-montiel.80978e117ec263361f3f.mp4",
-    "static/media/3-estrellas.jpeg": "/Botonera-Futbol-Argentino/static/media/3-estrellas.260fee13157d5c7122d5.jpeg",
     "static/media/y-va-el-tercero.jpg": "/Botonera-Futbol-Argentino/static/media/y-va-el-tercero.4efb3c472015e943d069.jpg",
     "static/media/copa-del-mundo.png": "/Botonera-Futbol-Argentino/static/media/copa-del-mundo.29bcec95e9b0824eecae.png",
     "static/media/cesped.jpg": "/Botonera-Futbol-Argentino/static/media/cesped.dd8eeb0c514939575f4b.jpg",
@@ -47,10 +46,10 @@
     "static/media/me-cortaron-las-piernas.jpg": "/Botonera-Futbol-Argentino/static/media/me-cortaron-las-piernas.1f07201f8dbf2601c6f7.jpg",
     "index.html": "/Botonera-Futbol-Argentino/index.html",
     "main.04e5535b.css.map": "/Botonera-Futbol-Argentino/static/css/main.04e5535b.css.map",
-    "main.6beb2c6a.js.map": "/Botonera-Futbol-Argentino/static/js/main.6beb2c6a.js.map"
+    "main.3cfc34b7.js.map": "/Botonera-Futbol-Argentino/static/js/main.3cfc34b7.js.map"
   },
   "entrypoints": [
     "static/css/main.04e5535b.css",
-    "static/js/main.6beb2c6a.js"
+    "static/js/main.3cfc34b7.js"
   ]
 }
