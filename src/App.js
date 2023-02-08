@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import './App.css';
+import './AppMovil.css';
 import Boton from './componentes/Boton.js';
 import BotonCopa from './componentes/BotonCopa';
 import BotonEscudo from './componentes/BotonEscudo';
@@ -17,7 +18,10 @@ function App() {
     <div className="App">
       <h1> BOTONERA DEL FUTBOL ARGENTINO </h1>
       <div className='contenedor-copa-botonera-escudo'>
-        <BotonCopa />
+        
+        <div className='contenedor-copa-no-movil'>
+          <BotonCopa />
+        </div>
 
         <div className='contenedor-botonera'>
 
@@ -71,7 +75,7 @@ function App() {
             <Boton
               id={'boton7'}
               imagen='mira-que-te-como-hermano.jpg'
-              audio= 'mira-que-te-como-hermano.mp3'
+              audio='mira-que-te-como-hermano.mp3'
               nombre='Mira que te como hermano'
               estaApretado={selectedButton === 'boton7'}
               manejarClick={manejarClick} />
@@ -160,8 +164,23 @@ function App() {
 
           </div>
         </div>
-        <BotonEscudo />
+        <div className='contenedor-logo-no-movil'>
+          <BotonEscudo />
+        </div>
       </div>
+
+      {/* Contenedor unicamente para movil */}
+
+      <div className='contenedor-copa-logo'>
+        <div className='contenedor-copa-movil'>
+          <BotonCopa />
+        </div>
+        <div className='contenedor-logo-movil'>
+          <BotonEscudo />
+        </div>
+
+      </div>
+
       <footer>© 2023 AGUSTIN CEJAS</footer>
     </div >
   );
