@@ -1,0 +1,50 @@
+.boton-contenedor {
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border-radius: 3.81vh;
+  border: none;
+  margin: 0.61vh;
+  cursor: pointer;
+  width: 60%;
+  height: 60%;
+  box-shadow: 0.15vh 0.61vh 0.15vh 0.30vh white;
+}
+
+.fila .boton-contenedor, .fila-3 .boton-contenedor {
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border-radius: 3.81vh;
+  border: none;
+  margin: 0.61vh;
+  cursor: pointer;
+  width: 60%;
+  height: 60%;
+  box-shadow: 0.15vh 0.61vh 0.15vh 0.30vh white;
+}
+
+.fila-2 .boton-contenedor {
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border-radius: 3.81vh;
+  border: none;
+  margin: 0.61vh;
+  cursor: pointer;
+  width: 60%;
+  height: 60%;
+  box-shadow: 0.15vh 0.61vh 0.15vh 0.30vh #7FBDDE;
+}
+
+
+
+
+.boton-con-click:focus {
+  box-shadow: 0.30vh 0.30vh 0.30vh 0.30vh black;
+  transform: translateY(1.52vh);
+  background-color: transparent;
+}

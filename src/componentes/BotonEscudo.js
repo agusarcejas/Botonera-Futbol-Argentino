@@ -1,4 +1,4 @@
-import React, { useState} from 'react';
+import React, { useState } from 'react';
 import Ventana from './Ventana.js';
 import escudo from '../imagenes/escudo-afa.png';
 
@@ -24,16 +24,17 @@ const BotonEscudo = () => {
       <div onClick={abrirModal}>
         <div className='contenedor-logo-afa'>
           <img
+            className='logo-afa'
             src={escudo}
             alt='Escudo AFA'
           />
         </div>
       </div>
-      <Ventana 
-      show={showModal} 
-      onClose={cerrarModal} 
-      playing={playing}
-      video = 'penal-montiel.mp4' />
+      <Ventana
+        show={showModal}
+        onClose={cerrarModal}
+        playing={playing}
+        video='penal-montiel.mp4' />
     </div>
   );
 };

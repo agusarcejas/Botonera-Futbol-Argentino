@@ -1,5 +1,6 @@
 import  React, { useState } from 'react';
 import '../hojas-de-estilo/Boton.css';
+import '../hojas-de-estilo/BotonMovil.css';
 
 //Recibo 3 props
 function Boton(props) {
