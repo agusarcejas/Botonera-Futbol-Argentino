@@ -26,16 +26,6 @@
         box-shadow: 0.15vh 0.61vh 0.15vh 0.30vh white;
     }
 
-    #boton1 .fila, #boton2 .fila, #boton3 .fila {
-        display: inline-block;
-        align-items: flex-start;
-    }
-
-    #boton4 .fila, #boton5 .fila, #boton6 .fila {
-        display: inline-block;
-        align-items: flex-start;
-    }
-
     .fila-2 .boton-contenedor {
         display: inline-block;
         justify-content: center;
