@@ -9,6 +9,11 @@
         border: none;
         margin: 0.61vh;
         cursor: pointer;
+<<<<<<< HEAD
+=======
+        width: 8vw;
+        height: 8vh;
+>>>>>>> 1adffca6ba5ade0f9bf207a8873d83dc12a8c07b
         box-shadow: 0.15vh 0.61vh 0.15vh 0.30vh white;
     }
 
@@ -21,7 +26,11 @@
         border: none;
         margin: 0.61vh;
         cursor: pointer;
+<<<<<<< HEAD
         width: 13vw;
+=======
+        width: 8vw;
+>>>>>>> 1adffca6ba5ade0f9bf207a8873d83dc12a8c07b
         height: 8vh;
         box-shadow: 0.15vh 0.61vh 0.15vh 0.30vh white;
     }
@@ -35,7 +44,11 @@
         border: none;
         margin: 0.61vh;
         cursor: pointer;
+<<<<<<< HEAD
         width: 13vw;
+=======
+        width: 8vw;
+>>>>>>> 1adffca6ba5ade0f9bf207a8873d83dc12a8c07b
         height: 8vh;
         box-shadow: 0.15vh 0.61vh 0.15vh 0.30vh #7FBDDE;
     }
