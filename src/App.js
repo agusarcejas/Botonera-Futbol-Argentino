@@ -162,6 +162,7 @@ function App() {
         </div>
         <BotonEscudo />
       </div>
+      <footer>© 2023 AGUSTIN CEJAS</footer>
     </div >
   );
 }

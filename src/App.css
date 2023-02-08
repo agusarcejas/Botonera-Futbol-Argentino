@@ -87,3 +87,9 @@ button img {
   justify-content: center;
   height: 25vh;
 }
+
+footer {
+  color: rgb(215, 230, 7);
+  font-weight: bold;
+  font-size: 3vh;
+}
