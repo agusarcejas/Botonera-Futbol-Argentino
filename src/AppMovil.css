@@ -65,20 +65,20 @@
     position: relative;
     margin: 0.61vh;
     display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
     align-items: center;
-    justify-content: space-evenly;
     height: 25vh;
-    width: 100%;
   }
   
   .fila-2 {
     position: relative;
     margin: 0.61vh;
     display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
     align-items: center;
-    justify-content: space-evenly;
     height: 25vh;
-    width: 100%;
   }
 
   .contenedor-copa-movil, .contenedor-logo-movil, .contenedor-copa-logo  {
