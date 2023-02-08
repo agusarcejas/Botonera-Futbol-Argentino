@@ -88,7 +88,6 @@
   }
 
   .contenedor-copa-logo{
-<<<<<<< HEAD
     padding-top: 7vh;
   }
 
@@ -102,19 +101,6 @@
     text-align: left;
     height: 55vh;
     width: 55vw;
-=======
-    padding-top: 1.52vh;
-  }
-
-  .copa-del-mundo{
-    height: 65vh;
-    width: 24vh;
-  }
-
-  .logo-afa {
-    height: 55vh;
-    width: 35vh;
->>>>>>> 1adffca6ba5ade0f9bf207a8873d83dc12a8c07b
   }
 
   
@@ -122,9 +108,5 @@
     color: rgb(215, 230, 7);
     font-weight: bold;
     font-size: 3vh;
-<<<<<<< HEAD
-=======
-    padding-top: 1.52vh;
->>>>>>> 1adffca6ba5ade0f9bf207a8873d83dc12a8c07b
   }
 }
