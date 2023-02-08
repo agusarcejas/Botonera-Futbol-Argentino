@@ -24,6 +24,7 @@ const BotonCopa = () => {
       <div onClick={abrirModal}>
         <div className='contenedor-copa-del-mundo'>
           <img
+            className='copa-del-mundo'
             src={copa}
             alt='Copa del mundo'
           />
@@ -33,7 +34,7 @@ const BotonCopa = () => {
         show={showModal}
         onClose={cerrarModal}
         playing={playing}
-        video ='levantamiento-de-copa.mp4' />
+        video='levantamiento-de-copa.mp4' />
     </div>
   );
 };

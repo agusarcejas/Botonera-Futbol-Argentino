@@ -1,5 +1,6 @@
 import React from 'react';
-import '../hojas-de-estilo/Ventana.css'
+import '../hojas-de-estilo/Ventana.css';
+import '../hojas-de-estilo/VentanaMovil.css';
 
 const Ventana = ({ show, onClose, playing, video }) => {
 
