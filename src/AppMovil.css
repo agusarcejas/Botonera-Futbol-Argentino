@@ -69,6 +69,7 @@
     flex-wrap: wrap;
     align-items: center;
     height: 25vh;
+    justify-content: space-evenly;
   }
   
   .fila-2 {
@@ -79,6 +80,7 @@
     flex-wrap: wrap;
     align-items: center;
     height: 25vh;
+    justify-content: space-evenly;
   }
 
   .contenedor-copa-movil, .contenedor-logo-movil, .contenedor-copa-logo  {
