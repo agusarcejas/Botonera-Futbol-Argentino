@@ -33,7 +33,6 @@ function Boton(props) {
           <strong>{props.nombre}</strong>
         </p>
       </div>
-      {console.log(props.estaApretado)}
     </button>
     // if esBotonDeClic = true toma la clase 'boton-sin-click sino toma 'boton-con-click'
   );
