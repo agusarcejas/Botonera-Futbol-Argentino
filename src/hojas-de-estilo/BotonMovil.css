@@ -1,7 +1,7 @@
 @media only screen and (min-device-width : 320px) and (max-device-width : 600px) {
 
     .boton-contenedor {
-        display: inline-block;
+        display: inline-block; /* Si esta en block no se puede utilizar justify-content ni align-items*/
         justify-content: center;
         align-items: center;
         background-color: transparent;
@@ -13,9 +13,7 @@
     }
 
     .fila .boton-contenedor, .fila-3 .boton-contenedor {
-        display: inline-block;
-        justify-content: center;
-        align-items: center;
+        display: inline-block; /* Si esta en block no se puede utilizar justify-content ni align-items*/
         background-color: transparent;
         border-radius: 3.81vh;
         border: none;
@@ -27,9 +25,7 @@
     }
 
     .fila-2 .boton-contenedor {
-        display: inline-block;
-        justify-content: center;
-        align-items: center;
+        display: inline-block; /* Si esta en block no se puede utilizar justify-content ni align-items*/
         background-color: transparent;
         border-radius: 3.81vh;
         border: none;
