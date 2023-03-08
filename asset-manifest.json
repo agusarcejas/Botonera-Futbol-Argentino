@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Botonera-Futbol-Argentino/static/css/main.93423739.css",
+    "main.css": "/Botonera-Futbol-Argentino/static/css/main.3d104ffe.css",
     "main.js": "/Botonera-Futbol-Argentino/static/js/main.9f593488.js",
     "static/media/levantamiento-de-copa.mp4": "/Botonera-Futbol-Argentino/static/media/levantamiento-de-copa.072aad094e04d37d58a4.mp4",
     "static/media/penal-montiel.mp4": "/Botonera-Futbol-Argentino/static/media/penal-montiel.80978e117ec263361f3f.mp4",
@@ -45,11 +45,11 @@
     "static/media/estamos-en-la-B.jpg": "/Botonera-Futbol-Argentino/static/media/estamos-en-la-B.4ee048e3503294952869.jpg",
     "static/media/me-cortaron-las-piernas.jpg": "/Botonera-Futbol-Argentino/static/media/me-cortaron-las-piernas.1f07201f8dbf2601c6f7.jpg",
     "index.html": "/Botonera-Futbol-Argentino/index.html",
-    "main.93423739.css.map": "/Botonera-Futbol-Argentino/static/css/main.93423739.css.map",
+    "main.3d104ffe.css.map": "/Botonera-Futbol-Argentino/static/css/main.3d104ffe.css.map",
     "main.9f593488.js.map": "/Botonera-Futbol-Argentino/static/js/main.9f593488.js.map"
   },
   "entrypoints": [
-    "static/css/main.93423739.css",
+    "static/css/main.3d104ffe.css",
     "static/js/main.9f593488.js"
   ]
 }
