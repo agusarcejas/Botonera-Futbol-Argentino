@@ -1,7 +1,7 @@
 /* Para iPhone 5 o superior */
 @media only screen
-  and (min-device-width : 320px)
-  and (max-device-width : 600px) {
+  and (min-device-width : 250px)
+  and (max-device-width : 830px) {
     
     *{
     padding: 0;
